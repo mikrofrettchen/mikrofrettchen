@@ -7,8 +7,3 @@
 - :rainbow_flag: they/them or she/her
 - :hibiscus: currently learning Python
 - :mouse: not *actually* a ferret
-
-## Where to find me
-<!--
-TODO: add some contact stuff
--->
