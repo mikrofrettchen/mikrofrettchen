@@ -1,12 +1,14 @@
-### Hi there 👋
-
 <!--
 **mikrofrettchen/mikrofrettchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
 
+## About me
 
-- 🌱 I’m currently learning Python
-- 🏳️•⚧️ Pronouns: they/them or she/her
-- 🐀 Fun fact: I am not actually a ferret
+- :rainbow_flag: they/them or she/her
+- :hibiscus: currently learning Python
+- :mouse: not *actually* a ferret
+
+## Where to find me
+<!--
+TODO: add some contact stuff
+-->
